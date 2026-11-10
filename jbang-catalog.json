@@ -1,7 +1,7 @@
 {
   "aliases": {
     "restest": {
-      "script-ref": "es.us.isa.restest:restest-cli:2.4.0",
+      "script-ref": "es.us.isa.restest:restest-cli:2.5.0",
       "description": "Black-box tests for REST APIs, from their OpenAPI document",
       "main": "io.restest.cli.Restest",
       "java": "21+",
